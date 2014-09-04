@@ -13,5 +13,5 @@ tags:
 > Written with [StackEdit](https://stackedit.io/).
 
 
-  [1]: http://arch.acgtyrant.com/2014/06/17/moka-project/mokaproject.com
+  [1]: http://mokaproject.com/
   [2]: https://lh3.googleusercontent.com/-5Umt-x0dNbU/U5-oeH4T4tI/AAAAAAAAFuc/V0fAr0m8h4o/s0/2014-06-16-234647_1920x1849_scrot.png
