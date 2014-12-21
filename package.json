@@ -3,10 +3,10 @@
   "version": "2.8.2",
   "private": true,
   "dependencies": {
-    "hexo-generator-feed": "^0.2.0",
+    "hexo-generator-feed": "^0.2.1",
     "hexo-generator-sitemap": "^0.2.0",
-    "hexo-renderer-ejs": "*",
-    "hexo-renderer-marked": "*",
-    "hexo-renderer-stylus": "*"
+    "hexo-renderer-ejs": "^0.1.0",
+    "hexo-renderer-marked": "^0.1.0",
+    "hexo-renderer-stylus": "^0.1.0"
   }
 }
