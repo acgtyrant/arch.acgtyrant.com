@@ -26,5 +26,5 @@ Chromium 已經打包在官方軟件源，所以可以直接用 pacman 下載安
 
 如果您有不錯的解決方案，歡迎留言。
 
- [1]: https://wiki.archlinux.org/index.php/Shadowsocks_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
- [2]: https://wiki.archlinux.org/index.php/GoAgent_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
+ [1]: https://wiki.archlinux.org/index.php/GoAgent_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 
+ [2]: https://wiki.archlinux.org/index.php/Shadowsocks_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
