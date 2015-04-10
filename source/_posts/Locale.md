@@ -1,7 +1,7 @@
 title: Locale
 date: 2015-02-10 13:52:00
 tags:
-- ArckWiki
+- ArchWiki
 ---
 
 Arch Linux 安装过程重要的环节之一便是设置 [Locale](https://wiki.archlinux.org/index.php/Locale) 了，不翻译。现在恕我直接假设您了解 Locale 机制的原理。
