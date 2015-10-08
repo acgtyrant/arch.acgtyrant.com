@@ -101,9 +101,13 @@ stylus:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
   repository: git@gitcafe.com:acgtyrant/arch.acgtyrant.com.git
   branch: gitcafe-pages
+
+feed:
+  type: atom
+  path: atom.xml
 
 plugins:
 - hexo-generator-feed
